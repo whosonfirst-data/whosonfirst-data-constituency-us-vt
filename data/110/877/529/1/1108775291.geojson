@@ -9,7 +9,7 @@
     "geom:bbox":"-72.76348,44.51204,-72.36815,44.80159",
     "geom:latitude":44.646262,
     "geom:longitude":-72.595117,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":396717681.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Lamoille-2 State House District",
     "uscensus:sldlst":"LM2",
     "uscensus:statefp":"50",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688763
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488506,
     "wof:geomhash":"b2b9311640e51a9faa336519010df94c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688763
+        }
+    ],
     "wof:id":1108775291,
     "wof:lastmodified":1481488506,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688763,
     "wof:repo":"whosonfirst-data-constituency-us-vt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

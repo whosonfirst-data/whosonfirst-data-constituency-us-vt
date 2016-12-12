@@ -9,7 +9,7 @@
     "geom:bbox":"-73.14249,42.73826,-72.73415,43.053549",
     "geom:latitude":42.893557,
     "geom:longitude":-72.942107,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":497258618.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Windham-Bennington State House District",
     "uscensus:sldlst":"WIB",
     "uscensus:statefp":"50",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688763
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488513,
     "wof:geomhash":"5e680e53e8aa2a407bc79bc619169ed4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688763
+        }
+    ],
     "wof:id":1108775381,
     "wof:lastmodified":1481488513,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688763,
     "wof:repo":"whosonfirst-data-constituency-us-vt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

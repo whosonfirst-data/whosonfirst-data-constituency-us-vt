@@ -9,7 +9,7 @@
     "geom:bbox":"-72.92891,42.733187,-72.68107,42.926792",
     "geom:latitude":42.817304,
     "geom:longitude":-72.821659,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":288991728.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Windham-6 State House District",
     "uscensus:sldlst":"W-6",
     "uscensus:statefp":"50",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688763
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488511,
     "wof:geomhash":"55fdcbf14dd0ab706de442b95f9b2810",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688763
+        }
+    ],
     "wof:id":1108775353,
     "wof:lastmodified":1481488511,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688763,
     "wof:repo":"whosonfirst-data-constituency-us-vt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

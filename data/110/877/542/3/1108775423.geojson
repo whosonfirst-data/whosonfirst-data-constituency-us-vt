@@ -9,7 +9,7 @@
     "geom:bbox":"-72.92724,44.39822,-72.41731,44.80159",
     "geom:latitude":44.608755,
     "geom:longitude":-72.658619,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1088011026.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Lamoille State Senate District",
     "uscensus:sldust":"LAM",
     "uscensus:statefp":"50",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688763
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488519,
     "wof:geomhash":"0692cc46fd4237efe3afd0b42316ae28",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688763
+        }
+    ],
     "wof:id":1108775423,
     "wof:lastmodified":1481488519,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688763,
     "wof:repo":"whosonfirst-data-constituency-us-vt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

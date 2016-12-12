@@ -9,7 +9,7 @@
     "geom:bbox":"-72.61261,44.23487,-72.52482,44.31351",
     "geom:latitude":44.265858,
     "geom:longitude":-72.571741,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":26043274.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Washington-4 State House District",
     "uscensus:sldlst":"WA4",
     "uscensus:statefp":"50",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688763
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488512,
     "wof:geomhash":"ff7b5fbe0927151e3957e266c75d1359",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688763
+        }
+    ],
     "wof:id":1108775369,
     "wof:lastmodified":1481488512,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688763,
     "wof:repo":"whosonfirst-data-constituency-us-vt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

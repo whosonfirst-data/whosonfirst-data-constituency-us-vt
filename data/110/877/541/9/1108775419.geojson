@@ -9,7 +9,7 @@
     "geom:bbox":"-73.35463,44.633051,-72.66123,45.016659",
     "geom:latitude":44.856984,
     "geom:longitude":-72.98758,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1459010475.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Franklin State Senate District",
     "uscensus:sldust":"FRA",
     "uscensus:statefp":"50",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688763
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488519,
     "wof:geomhash":"d6102ccaac4f61acb1babce90373290d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688763
+        }
+    ],
     "wof:id":1108775419,
     "wof:lastmodified":1481488519,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688763,
     "wof:repo":"whosonfirst-data-constituency-us-vt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

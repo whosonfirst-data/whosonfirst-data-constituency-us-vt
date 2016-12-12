@@ -9,7 +9,7 @@
     "geom:bbox":"-73.08477,44.645558,-72.67584,44.88048",
     "geom:latitude":44.779302,
     "geom:longitude":-72.879212,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":387592479.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Franklin-6 State House District",
     "uscensus:sldlst":"F-6",
     "uscensus:statefp":"50",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688763
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488504,
     "wof:geomhash":"57a4c48fceccfce7752d89f9513aaee0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688763
+        }
+    ],
     "wof:id":1108775279,
     "wof:lastmodified":1481488504,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688763,
     "wof:repo":"whosonfirst-data-constituency-us-vt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

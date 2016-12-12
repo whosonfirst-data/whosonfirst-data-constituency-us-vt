@@ -9,7 +9,7 @@
     "geom:bbox":"-72.71597,43.62914,-72.34336,43.79503",
     "geom:latitude":43.707119,
     "geom:longitude":-72.536676,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":289563708.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Windsor-4-1 State House District",
     "uscensus:sldlst":"Y41",
     "uscensus:statefp":"50",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688763
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488515,
     "wof:geomhash":"027a5d807dff0a74e629466bb0deb0fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688763
+        }
+    ],
     "wof:id":1108775397,
     "wof:lastmodified":1481488515,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688763,
     "wof:repo":"whosonfirst-data-constituency-us-vt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

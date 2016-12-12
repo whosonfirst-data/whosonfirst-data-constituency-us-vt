@@ -9,7 +9,7 @@
     "geom:bbox":"-72.70265,44.34799,-71.46505,45.01568",
     "geom:latitude":44.783129,
     "geom:longitude":-72.050182,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":3873650877.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Essex-Orleans State Senate District",
     "uscensus:sldust":"E-O",
     "uscensus:statefp":"50",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688763
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488518,
     "wof:geomhash":"fc68228454b9d7fb0758c9a83306c6ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688763
+        }
+    ],
     "wof:id":1108775417,
     "wof:lastmodified":1481488518,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688763,
     "wof:repo":"whosonfirst-data-constituency-us-vt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

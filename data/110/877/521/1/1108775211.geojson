@@ -9,7 +9,7 @@
     "geom:bbox":"-73.16526,44.27505,-73.01652,44.37562",
     "geom:latitude":44.325491,
     "geom:longitude":-73.088853,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":99415181.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Chittenden-4-2 State House District",
     "uscensus:sldlst":"C42",
     "uscensus:statefp":"50",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688763
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488498,
     "wof:geomhash":"88c8961d69fd99cfe3db894801315af6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688763
+        }
+    ],
     "wof:id":1108775211,
     "wof:lastmodified":1481488498,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688763,
     "wof:repo":"whosonfirst-data-constituency-us-vt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

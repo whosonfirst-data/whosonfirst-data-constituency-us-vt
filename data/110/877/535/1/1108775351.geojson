@@ -9,7 +9,7 @@
     "geom:bbox":"-72.80243,42.827222,-72.59617,43.137986",
     "geom:latitude":42.973998,
     "geom:longitude":-72.702399,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":317839965.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Windham-5 State House District",
     "uscensus:sldlst":"W-5",
     "uscensus:statefp":"50",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688763
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488511,
     "wof:geomhash":"cfee5d10d5db4c5a1a0d2ec90b8ec92f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688763
+        }
+    ],
     "wof:id":1108775351,
     "wof:lastmodified":1481488511,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688763,
     "wof:repo":"whosonfirst-data-constituency-us-vt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
